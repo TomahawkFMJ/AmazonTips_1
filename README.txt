@@ -6,8 +6,9 @@ REQUISITI AMAZON TIPS
 
 
 
-2) creare un account affiliazione amazon-- https://programma-affiliazione.amazon.it/ (GRATUITO) 
-con il profilo chrome di default (il primo mostrato quando lo si apre)
+2) creare un account affiliazione amazon-- https://programma-affiliazione.amazon.it/ (GRATUITO) con il profilo chrome di default (il primo mostrato quando lo si apre)
+accertarsi che la barra SiteStripe si attiva/visibie sulla propria homepage amazon e su qualsiasi pagina di prodotti per ottenere il link.
+
 
 
 
