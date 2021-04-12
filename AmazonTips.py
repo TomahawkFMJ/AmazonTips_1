@@ -1,4 +1,4 @@
-import time                                                                            #assicurarsi di avere un account Affiliazione Amazon(gratuito) con amazon
+import time                                                                            #assicurarsi di avere un account Affiliazione Amazon(gratuito) 
 import telebot                                                                         #pip install pyTelegramBotAPI
 from selenium import webdriver                                                         #pip install selenium/pip install webdriver-manager
 from selenium.webdriver.common.keys import Keys
