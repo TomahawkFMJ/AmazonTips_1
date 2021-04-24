@@ -12,7 +12,7 @@ accertarsi che la barra SiteStripe si attiva/visibie sulla propria homepage amaz
 
 
 
-3) Scaricare i driver chrome piu aggiornati tramite questo link https://chromedriver.chromium.org/
+3) Scaricare i driver chrome piu aggiornati tramite questo link https://sites.google.com/chromium.org/driver/
 
    Installare le seguenti librerie indicate anche nel file python:
 
