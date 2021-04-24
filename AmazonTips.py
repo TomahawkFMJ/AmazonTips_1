@@ -2,7 +2,7 @@ import time                                                                     
 import telebot                                                                         #pip install pyTelegramBotAPI
 from selenium import webdriver                                                         #pip install selenium/pip install webdriver-manager
 from selenium.webdriver.common.keys import Keys
-from webdriver_manager.chrome import ChromeDriverManager                               #installare chrome driver piu aggiornati tramite questo link https://chromedriver.chromium.org/
+from webdriver_manager.chrome import ChromeDriverManager                               #installare chrome driver piu aggiornati tramite questo link https://sites.google.com/chromium.org/driver/
 from selenium.common.exceptions import NoSuchElementException
 API_TOKEN = 'il tuo token del bot telegram'                                            #inserire il token telegram bot
 bot = telebot.TeleBot(API_TOKEN)
