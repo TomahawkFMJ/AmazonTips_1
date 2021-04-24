@@ -24,7 +24,7 @@ pip install webdriver-manager
 
 4) per vedere la posizione del profilo di installazione di chrome si puo scrivere sulla barra degli indirizzi 
    chrome://version/
-   e sulla voce "percorso profilo" dovrebbe esserci un testo simile o come questo:  
+   e sulla voce "percorso profilo" dovrebbe esserci un testo simile o uguale questo:  
     C:\Users\User\AppData\Local\Google\Chrome\User Data\Default   
     copiarlo e inserirlo nella riga 15 del codice (dopo "user-data-dir=") 
 
