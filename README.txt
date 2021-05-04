@@ -6,13 +6,13 @@ REQUISITI AMAZON TIPS
 
 
 
-2) Creare un account affiliazione amazon-- https://programma-affiliazione.amazon.it/ (GRATUITO) con il profilo chrome di default (il primo mostrato quando lo si apre)
+3) Creare un account affiliazione amazon-- https://programma-affiliazione.amazon.it/ (GRATUITO) con il profilo chrome di default (il primo mostrato quando lo si apre)
 accertarsi che la barra SiteStripe si attiva/visibie sulla propria homepage amazon e su qualsiasi pagina di prodotti per ottenere il link.
 
 
 
 
-3) Scaricare i driver chrome piu aggiornati tramite questo link https://sites.google.com/chromium.org/driver/
+4) Scaricare i driver chrome piu aggiornati tramite questo link https://sites.google.com/chromium.org/driver/
 
    Installare le seguenti librerie indicate anche nel file python:
 
@@ -22,7 +22,7 @@ pip install webdriver-manager
 
 
 
-4) per vedere la posizione del profilo di installazione di chrome si puo scrivere sulla barra degli indirizzi 
+5) per vedere la posizione del profilo di installazione di chrome si puo scrivere sulla barra degli indirizzi 
    chrome://version/
    e sulla voce "percorso profilo" dovrebbe esserci un testo simile o uguale a questo:  
     C:\Users\User\AppData\Local\Google\Chrome\User Data\Default   
